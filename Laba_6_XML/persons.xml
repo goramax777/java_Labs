@@ -1,0 +1,23 @@
+<persons>
+  <Person Age="19">
+    <Name>Adam</Name>
+    <LastName>Jeckson</LastName>
+    <Children>
+      <Person Age="2">
+        <Name>Bob</Name>
+        <LastName>Jeckson</LastName>
+        <Children/>
+      </Person>
+    </Children>
+  </Person>
+  <Person Age="19">
+    <Name>Ketty</Name>
+    <LastName>Pretorius</LastName>
+    <Children/>
+  </Person>
+  <Person Age="26">
+    <Name>Jon</Name>
+    <LastName>Snow</LastName>
+    <Children/>
+  </Person>
+</persons>
